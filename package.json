@@ -1,0 +1,49 @@
+{
+  "name": "exerciseapp",
+  "version": "0.0.1",
+  "description": "React Native app",
+  "author": "Empeek ltd",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "engines": {
+    "node": ">=4.3"
+  },
+  "dependencies": {
+    "art": "^0.10.1",
+    "axios": "^0.15.3",
+    "immutable": "^3.8.1",
+    "react": "15.3.2",
+    "react-mixin": "^3.0.5",
+    "react-native": "0.34.1",
+    "react-native-audio-streaming": "^2.3.1",
+    "react-native-checkbox-field": "^1.1.1",
+    "react-native-drawer": "^2.3.0",
+    "react-native-navigation-redux-helpers": "^0.4.1",
+    "react-native-photo-view": "^1.2.0",
+    "react-native-pie-chart": "^1.0.4",
+    "react-native-side-menu": "^0.20.1",
+    "react-native-simple-radio-button": "^2.4.0",
+    "react-native-slider": "^0.9.1",
+    "react-native-vector-icons": "^3.0.0",
+    "react-native-youtube": "^0.8.0",
+    "react-redux": "^4.4.5",
+    "react-timer-mixin": "^0.13.3",
+    "redux": "^3.6.0",
+    "redux-immutable": "^3.0.8",
+    "redux-saga": "^0.11.1",
+    "reselect": "^2.5.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "remote-redux-devtools": "^0.4.9"
+  },
+  "main": "index.android.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://assafmashiah@bitbucket.org/T2KI/vviser-front.git"
+  },
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/T2KI/vviser-front#readme"
+}

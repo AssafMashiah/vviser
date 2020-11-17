@@ -1,0 +1,29 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "name": "ודשיתחודשית",
+      "imgUrl": "http://comicswatcher.com/wp-content/uploads/2014/04/Batman-12-Comic-Book-Front-Cover-e1398377031405.jpg"
+    },
+    {
+      "id": 2,
+      "name": " בטיסות.",
+      "imgUrl": "http://www.rols76.com/wp-content/uploads/2014/09/The_Professor_Cover-300x467.jpg"
+    },
+    {
+      "id": 3,
+      "name": " ורמשים חלם זוֹ",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Cop_This!-Front_Book_Cover.jpg"
+    },
+    {
+      "id": 4,
+      "name": "היחפות במהותו",
+      "imgUrl": "http://comicswatcher.com/wp-content/uploads/2014/04/Batman-12-Comic-Book-Front-Cover-e1398377031405.jpg"
+    },
+    {
+      "id": 5,
+      "name": "חודשית",
+      "imgUrl": "http://comicswatcher.com/wp-content/uploads/2014/04/Batman-12-Comic-Book-Front-Cover-e1398377031405.jpg"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+ [{
+    id:10,
+    title: 'אנגלית',
+    type:"root",
+    data: [],
+    color:'#014eb7',
+},{
+    id:1,
+     title: 'לשון',
+    type:"root",
+    data: [],
+    color:'#ff4864',
+},{
+    id:9,
+    title: 'תנײכ',
+    type:"root",
+    data: [],
+    color:'#f7b500',
+},{
+    id:0,
+    type:"root",
+    title: 'מתמטיקה',
+    color:'#1db4ae',
+    data: [],
+}]

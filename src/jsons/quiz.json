@@ -1,0 +1,66 @@
+{
+    "id": "5852a7265cd6d70e54a2ff64",
+    "userId": "54408d44dd53a361ffafb255",
+    "interactions": [
+        {
+            "choices": [
+                "2",
+                "1",
+                "91",
+                "0"
+            ],
+            "attachments": [
+                {
+                    "url": "i8rnEl8O-r0",
+                    "attachmentType": "youtube"
+                },
+                {
+                    "url": "http://pad2.whstatic.com/images/thumb/e/e8/Solve-Differential-Equations-Step-8.jpg/aid729502-728px-Solve-Differential-Equations-Step-8.jpg",
+                    "attachmentType": "image"
+                }
+            ],
+            "imageUrl": "",
+            "text": "1 + 2 > ?",
+            "interactionType": "MMC",
+            "id": "582c8ef5c4f656150234a754"
+        },
+        {
+            "choices": [
+                "-8",
+                "12",
+                "1",
+                "3200"
+            ],
+            "attachments": [
+                {
+                    "url": "i8rnEl8O-r0",
+                    "attachmentType": "youtube"
+                },
+                {
+                    "url": "http://pad2.whstatic.com/images/thumb/e/e8/Solve-Differential-Equations-Step-8.jpg/aid729502-728px-Solve-Differential-Equations-Step-8.jpg",
+                    "attachmentType": "image"
+                }
+            ],
+            "imageUrl": "",
+            "text": "טקסט בעברית שהתשובה עליו היא: 1",
+            "interactionType": "MultipleChoice",
+            "id": "582c5ef5c4f606150634a736"
+        }
+    ],
+    "relatedInteractions": [[1,2]],
+    "answers": [
+        {
+            "trials": 0,
+            "maxTrials": 2,
+            "lastAnswer": null,
+            "lastGrade": 0
+        },
+        {
+            "trials": 0,
+            "maxTrials": 2,
+            "lastAnswer": null,
+            "lastGrade": 0
+        }
+    ],
+    "totalGrade": 0
+}
